@@ -1,16 +1,10 @@
 # theme_manage
 
-A new Flutter project.
+This is an example with Provider for theme management. The detection of the smartphone theme but also the change of the theme with a button
 
-## Getting Started
+# Display
+![Preview(assets/theme_manage.gif)](assets/theme_manage.gif)
 
-This project is a starting point for a Flutter application.
+# Information
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The `theme_dark.json` and the `theme_light.json` are generated on https://appainter.dev/
